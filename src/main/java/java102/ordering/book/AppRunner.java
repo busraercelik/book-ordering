@@ -1,4 +1,4 @@
-package book.ordering;
+package java102.ordering.book;
 
 import java.util.Comparator;
 import java.util.TreeSet;
@@ -8,7 +8,7 @@ public class AppRunner {
         TreeSet<Book> books = new TreeSet<>();
         getBooks(books);
 
-//        sorts the book by name from A to Z.
+//        sorts the java102.ordering.book by name from A to Z.
         for (Book b: books) {
             System.out.println(b.getBookTitle());
         }

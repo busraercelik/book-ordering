@@ -1,4 +1,4 @@
-package book.ordering;
+package java102.ordering.book;
 
 public class Book implements Comparable<Book>{
 
