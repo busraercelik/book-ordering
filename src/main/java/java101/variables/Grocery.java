@@ -30,6 +30,8 @@ public class Grocery {
                 eggplantInKg * eggplant;
 
         System.out.println("Total amount: " + totalAmount);
+
+        System.out.println(-Math.pow(2,3));
     }
 
 
