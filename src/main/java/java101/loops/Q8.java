@@ -2,6 +2,23 @@ package java101.loops;
 
 import java.util.Scanner;
 
+/**
+ * make diamonds with stars using loops
+ *
+ * Enter a num:
+ * 6
+ *                    *
+ *                 *  *  *
+ *              *  *  *  *  *
+ *           *  *  *  *  *  *  *
+ *        *  *  *  *  *  *  *  *  *
+ *     *  *  *  *  *  *  *  *  *  *  *
+ *        *  *  *  *  *  *  *  *  *
+ *           *  *  *  *  *  *  *
+ *              *  *  *  *  *
+ *                 *  *  *
+ *                    *
+ */
 public class Q8 {
     public static void main(String[] args) {
 
